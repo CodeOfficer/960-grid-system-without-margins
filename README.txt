@@ -1,6 +1,10 @@
-960 Grid System
+960 Grid System w/o Margins
 Version 1.1
-2008-12-15
+2009-03-30
+
+Modified by CodeOfficer
+
+http://www.codeofficer.com/
 
 Created by Nathan Smith. See the official site for more info: http://960.gs/
 
